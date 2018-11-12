@@ -6,8 +6,10 @@
 パズルゲームアルゴリズムマニアックス  
 https://www.amazon.co.jp/dp/4797347090
 
-CharCell.as…迷路生成クラス
-CharMan.as…人移動クラス
-MazeData.as…迷路データ保持クラス
-cap_maze.jpg…動作スクリーンショット
-main.swf…動作ファイル
+***
+
+CharCell.as…迷路生成クラス<br>
+CharMan.as…人移動クラス<br>
+MazeData.as…迷路データ保持クラス<br>
+cap_maze.jpg…動作スクリーンショット<br>
+main.swf…動作ファイル<br>
